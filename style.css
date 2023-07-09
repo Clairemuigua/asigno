@@ -1,0 +1,11 @@
+.logo{
+    border-radius:100%;
+    margin-right:100%;
+    max-height:300px;
+    border-color:rgb(42, 165, 134);
+    border:12px; ;
+}
+.heading{
+  text-align: center;  
+  color: brown;
+}
